@@ -1,0 +1,30 @@
+.menu-nav{
+    background-color: rgba(40, 163, 235, 0.765);
+    padding: 1.5%;
+    display: flex;
+    width: 100vw;
+    h1{
+        margin-right: 50vw;   
+        margin-left: 90px; 
+        a {
+            text-decoration: none;
+            color: #000000;
+        }
+    }
+    ul{
+        width: 100vw;
+        display: flex;
+        justify-content: space-evenly;
+        list-style: none;
+        li a {
+            text-decoration: none;
+            font-size: 1.5rem;
+            color: #000000;
+        }
+    }
+}
+@media (max-width: 475px) {
+    .menu-nav{
+        padding: 10%;
+    }
+}

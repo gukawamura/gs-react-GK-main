@@ -1,0 +1,35 @@
+*{
+    text-align: center;
+}
+.container{
+    margin-top: 170px;
+}
+.input_space{
+    margin-bottom: 30px;
+}
+input{
+    height: 30px;
+    width: 22%;
+    font-size: 18px;
+}
+button{
+    height: 30px;
+    width: 13%;
+    background-color:rgba(40, 163, 235, 0.765);
+    border: none;
+}
+.logout{
+    margin-right: 5px;
+    color: white;
+    font-weight: 400;
+}
+.delete{
+    margin-right: 5px;
+    color: white;
+    background-color: rgb(19, 103, 142);
+    font-weight: 400;
+}
+
+.Login {
+    height: 53.5vh;
+}
