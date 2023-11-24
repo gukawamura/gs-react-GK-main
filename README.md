@@ -13,6 +13,31 @@ para criar,primeiro para o registre utilize os passos a a seguir para rodar o ba
 
 O projeto Health ON, é um sistema de triagem virtual desenvolvido usando React com Vite no frontend e uma simulação de backend utilizando JSON Server. Abaixo estão um tutorial com as informações sobre como executar o projeto, inicializar o servidor JSON, e informações sobre o armazenamento seguro de senhas.
 
+## Pré-requisitos
+
+Antes de começar, certifique-se de ter o [Node.js](https://nodejs.org/) instalado em seu sistema.
+
+## Inicializando o Projeto
+
+1. Clone o repositório para o seu ambiente local:
+
+```bash
+git clone https://seu-repositorio/health-id.git
+```
+2. Instale as dependências:
+
+```bash
+npm install
+```
+
+## Inicializando o Backend (JSON Server)
+
+O backend é simulado usando o JSON Server. Para iniciar o servidor, execute o seguinte comando no terminal:
+
+```bash
+npm run backend
+```
+
 
  
 
