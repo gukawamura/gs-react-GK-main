@@ -1,6 +1,7 @@
-# React + Vite
+Health ON - Triagem Virtual Telemedicina
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+RM:98460 - Felipe Capriotti da Silva Santos
+RM:99679 - Gustavo Kawamura Cristofani
 
 Currently, two official plugins are available:
 
