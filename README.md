@@ -10,7 +10,8 @@ _______________________________________________________
 ### login - test ( utilizado durante a realização do site)
 email: test0@gmail
 senha : G
-para criar,primeiro para o registre utilize os passos a baixo para rodar o backend e o site, após registrar irá redirecionar para o login, entre com o que criou e está logado. para sair basta dar "logout" 
+
+para criar,primeiro para o registre utilize os passos a a seguir para rodar o backend e o site, após registrar irá redirecionar para o login, entre com o que criou e está logado. para sair basta dar "logout" 
 
 
 
