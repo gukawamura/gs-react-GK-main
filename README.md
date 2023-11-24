@@ -29,14 +29,6 @@ git clone https://seu-repositorio/health-id.git
 ```bash
 npm install
 ```
-
-## Inicializando o Backend (JSON Server)
-
-O backend é simulado usando o JSON Server. Para iniciar o servidor, execute o seguinte comando no terminal:
-
-```bash
-npm run backend
-```
 ## Inicializando o Backend (JSON Server)
 
 O backend é simulado usando o JSON Server. Para iniciar o servidor, execute o seguinte comando no terminal:
