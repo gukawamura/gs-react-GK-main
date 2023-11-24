@@ -1,12 +1,13 @@
-#Health ON - Triagem Virtual Telemedicina 
+
+# Health ON - Triagem Virtual
 ___________________________________________
 - RM:98460 - Felipe Capriotti da Silva Santos 
 
 - RM:99679 - Gustavo Kawamura Cristofani
 
- Github :https://github.com/gukawamura/gs-react-GS-2
+## Github :https://github.com/gukawamura/gs-react-GS-2
 _______________________________________________________
-Login: test (foi oq utilizamos durante o processo)
+### login - test ( utilizado durante a realização do site)
 
 Email: test0@gmail
 
