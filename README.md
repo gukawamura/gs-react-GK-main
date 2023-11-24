@@ -1,12 +1,10 @@
 
 # Health ON - Triagem Virtual
-___________________________________________
 - RM:98460 - Felipe Capriotti da Silva Santos 
 
 - RM:99679 - Gustavo Kawamura Cristofani
 
 ## Github :https://github.com/gukawamura/gs-react-GS-2
-_______________________________________________________
 ### login - test ( utilizado durante a realização do site)
 email: test0@gmail -
 senha : G
