@@ -8,9 +8,9 @@ ___________________________________________
 ## Github :https://github.com/gukawamura/gs-react-GS-2
 _______________________________________________________
 ### login - test ( utilizado durante a realização do site)
-email: teste1@gmail
-senha : a 
-para criar, apenas registre utilize os passos a baixo para rodar o backend e o site, após registrar irá te levar para o login, entre com o que criou e está logado. para sair basta das "logout" clicando no notebook
+email: test0@gmail
+senha : G
+para criar,primeiro para o registre utilize os passos a baixo para rodar o backend e o site, após registrar irá redirecionar para o login, entre com o que criou e está logado. para sair basta dar "logout" 
 
 
 
