@@ -3,7 +3,7 @@ ___________________________________________
 RM:98460 - Felipe Capriotti da Silva Santos
 RM:99679 - Gustavo Kawamura Cristofani
 
-Github :https://github.com/gukawamura/gs-react-GS-2
+ Github :https://github.com/gukawamura/gs-react-GS-2
 
 Currently, two official plugins are available:
 
