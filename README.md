@@ -13,7 +13,7 @@ senha : G
 
 para criar,primeiro para o registre utilize os passos a a seguir para rodar o backend e o site, após registrar irá redirecionar para o login, entre com o que criou e está logado. para sair basta dar "logout" 
 
-O projeto Health ON, é um sistema de triagem virtual desenvolvido usando React com Vite no frontend e uma simulação de backend utilizando JSON Server. Abaixo estão as instruções detalhadas sobre como executar o projeto, inicializar o servidor JSON, e informações sobre o armazenamento seguro de senhas.
+O projeto Health ON, é um sistema de triagem virtual desenvolvido usando React com Vite no frontend e uma simulação de backend utilizando JSON Server. Abaixo estão um tutorial com as informações sobre como executar o projeto, inicializar o servidor JSON, e informações sobre o armazenamento seguro de senhas.
 
 
  
