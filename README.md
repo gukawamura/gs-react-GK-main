@@ -7,7 +7,8 @@ ___________________________________________
  Github :https://github.com/gukawamura/gs-react-GS-2
 _______________________________________________________
 Login: test (foi oq utilizamos durante o processo)
- Email: test0@gmail
+
+Email: test0@gmail
  
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
