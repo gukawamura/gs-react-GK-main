@@ -41,13 +41,13 @@ Isso iniciará o servidor JSON na porta 3001, utilizando os dados presentes no a
 
 ## Armazenamento Seguro de Senhas
 
-As senhas dos usuários são armazenadas no formato hash utilizando SHA-256. Por exemplo, a senha "password" seria armazenada como:
+As senhas dos usuários são armazendas no formato hash utilizando SHA-256. Por exemplo, a senha "password" seria armazenada como:
 
 ```plaintext
 ca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785afee48bb
 ```
 
-Isso ajuda a garantir a segurança das informações dos usuários.
+Isso garante a segurança das informações dos usuários.
 
 ## Dados de Exemplo
 
